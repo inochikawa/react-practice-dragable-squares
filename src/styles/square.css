@@ -1,0 +1,12 @@
+.square {
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    user-select: none;
+    cursor: pointer;
+
+    top: 200px;
+    left:140px;
+}
