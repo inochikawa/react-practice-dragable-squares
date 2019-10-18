@@ -5,6 +5,3 @@ To run application:
 ```
 npm run start
 ```
-
-Preview:
-![preview](https://i.imgur.com/vOddNmO.png)
